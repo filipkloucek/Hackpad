@@ -17,5 +17,4 @@ Files:
 - Hackpad - top.step 
 - Hackpad - bottom.step
   
-- <img width="1237" height="705" alt="image" src="https://github.com/user-attachments/assets/2e04b915-d141-41f3-b628-d2533c8a0e70" /> <img width="685" height="700" alt="image" src="https://github.com/user-attachments/assets/2e61b6a1-4347-4429-8922-629850f2b6c0" />
-
+![image](https://github.com/user-attachments/assets/8ce0ab16-e0b0-42d0-b748-d4ee08ce5972)    |  ![image](https://github.com/user-attachments/assets/556275d9-b148-4d51-b6e8-0c6bf95b5a16)  | ![image](https://github.com/user-attachments/assets/bcfd98e1-e562-48c3-b617-4d55031ebec4)
