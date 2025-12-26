@@ -17,6 +17,9 @@ Files:
 - Hackpad - top.step 
 - Hackpad - bottom.step
 - 
-  Schematic            |  PCB         |   Case
-:-------------------------:|:-------------------------:|:-------------------------:|
+  
+PCB
 <img width="1202" height="700" alt="image" src="https://github.com/user-attachments/assets/79e3d51b-b732-4829-a8ee-d2287930e428" />
+SCHEMATIC
+<img width="960" height="638" alt="image" src="https://github.com/user-attachments/assets/dc305366-8457-416e-88d3-8503d505497f" />
+CASE
