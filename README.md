@@ -16,4 +16,6 @@ Files:
 - KMK Firmware (main.py) 
 - Hackpad - top.step 
 - Hackpad - bottom.step
-<img width="1237" height="705" alt="image" src="https://github.com/user-attachments/assets/2e04b915-d141-41f3-b628-d2533c8a0e70" />
+  
+- <img width="1237" height="705" alt="image" src="https://github.com/user-attachments/assets/2e04b915-d141-41f3-b628-d2533c8a0e70" />
+- <img width="685" height="700" alt="image" src="https://github.com/user-attachments/assets/7954cb52-a0f1-4729-b7a4-6c14e8702dc9" />
