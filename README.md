@@ -12,7 +12,7 @@ Used parts:
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 - 1x EC11 Rotary encoders
-- 1x 0.91 inch OLED display
+- 1x 0.91 inch OLED display (SDD1306 OLED) 
 
 Files: 
 
