@@ -2,7 +2,7 @@
 
 - Just followed hackclub's guided tutorial. It was really fun. Looking forward to make my own stuff :)
 / update // added a few extra things. Prolly gonna use this for Spotify
-
+/ firmware made by AI for now. I can'T code but gonna learn that too. 
 Used parts: 
 
 - 4x Cherry MX Switches
