@@ -1,6 +1,7 @@
 # Hackpad
 
 - Just followed hackclub's guided tutorial. It was really fun. Looking forward to make my own stuff :)
+/ update // added a few extra things. Prolly gonna use this for Spotify
 
 Used parts: 
 
@@ -17,7 +18,7 @@ Files:
 
 - KMK Firmware (main.py) 
 - HACKPAD - VF (HACKPAD - BOTTOM,HACKPAD - TOP,HACKPAD - PCB)
-- images
+
   
   
 PCB
@@ -29,6 +30,7 @@ PCB
 
 
 SCHEMATIC
+<img width="952" height="669" alt="image" src="https://github.com/user-attachments/assets/e178faf7-5b09-48ab-aa35-3c5a521f3933" />
 
 
 
