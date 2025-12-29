@@ -10,16 +10,30 @@ Used parts:
 - 4x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
+- 1x EC11 Rotary encoders
+- 1x 0.91 inch OLED display
 
 Files: 
 
 - KMK Firmware (main.py) 
-- Hackpad - top.step 
-- Hackpad - bottom.step
-- 
+- HACKPAD - VF (HACKPAD - BOTTOM,HACKPAD - TOP,HACKPAD - PCB)
+- images
+  
   
 PCB
-<img width="1202" height="700" alt="image" src="https://github.com/user-attachments/assets/79e3d51b-b732-4829-a8ee-d2287930e428" />
+<img width="1044" height="573" alt="image" src="https://github.com/user-attachments/assets/3fd56ce5-10d7-4c28-b98e-cd644560042d" />
+
+
+
+
+
+
 SCHEMATIC
-<img width="960" height="638" alt="image" src="https://github.com/user-attachments/assets/dc305366-8457-416e-88d3-8503d505497f" />
+
+
+
+
+
 CASE
+<img width="1064" height="577" alt="image" src="https://github.com/user-attachments/assets/925f1590-705b-4425-a95d-f0c4422655ce" />
+
