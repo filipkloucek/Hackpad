@@ -28,6 +28,8 @@ Files:
   
   
 PCB
+
+
 <img width="820" height="415" alt="image" src="https://github.com/user-attachments/assets/77baa158-b767-4477-9be7-4fbbfc2675d6" />
 
 
@@ -37,6 +39,8 @@ PCB
 
 
 SCHEMATIC
+
+
 <img width="803" height="635" alt="image" src="https://github.com/user-attachments/assets/dc7b840d-0ef5-4e16-b40b-c9f8a17998af" />
 
 
@@ -47,5 +51,7 @@ SCHEMATIC
 
 
 CASE
+
+
 <img width="1064" height="577" alt="image" src="https://github.com/user-attachments/assets/925f1590-705b-4425-a95d-f0c4422655ce" />
 
