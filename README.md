@@ -60,6 +60,12 @@ CASE
 
 <img width="875" height="394" alt="image" src="https://github.com/user-attachments/assets/32782304-f322-49ed-b41f-231b2a3137c3" />
 
+<img width="933" height="588" alt="image" src="https://github.com/user-attachments/assets/2c5a3fd8-c041-4824-bf76-bec073cb9185" />
+
+<img width="875" height="419" alt="image" src="https://github.com/user-attachments/assets/65d66986-a3b6-4e95-8589-139175ff0353" />
+
+
+
 
 
 
