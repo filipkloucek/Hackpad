@@ -4,6 +4,8 @@
 
 / update // added a few extra things. Prolly gonna use this for Spotify
 
+/ update 2 // Completely new design - realised i used a wrong display. But it looks even better now
+  
 / firmware made by AI for now. I can'T code but gonna learn that too. 
 
 
@@ -15,7 +17,7 @@ Used parts:
 - 4x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
-- 1x EC11 Rotary encoders
+- 1x EC11 Rotary encoder
 - 1x 0.91 inch OLED display (SDD1306 OLED) 
 
 Files: 
@@ -26,7 +28,8 @@ Files:
   
   
 PCB
-<img width="1044" height="573" alt="image" src="https://github.com/user-attachments/assets/3fd56ce5-10d7-4c28-b98e-cd644560042d" />
+<img width="820" height="415" alt="image" src="https://github.com/user-attachments/assets/77baa158-b767-4477-9be7-4fbbfc2675d6" />
+
 
 
 
@@ -34,7 +37,8 @@ PCB
 
 
 SCHEMATIC
-<img width="952" height="669" alt="image" src="https://github.com/user-attachments/assets/e178faf7-5b09-48ab-aa35-3c5a521f3933" />
+<img width="1107" height="644" alt="image" src="https://github.com/user-attachments/assets/aaafa14a-220a-4fa0-9607-71280822efbd" />
+
 
 
 
