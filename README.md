@@ -12,7 +12,7 @@
 Used parts: 
 
 - 4x Cherry MX Switches
-- 2x SK6812 MINI Leds
+- 1x SK6812 MINI Led
 - 1x XIAO RP2040
 - 4x Blank DSA Keycaps
 - 4x M3x16 Bolt
@@ -54,5 +54,12 @@ SCHEMATIC
 CASE
 
 
-<img width="1064" height="577" alt="image" src="https://github.com/user-attachments/assets/925f1590-705b-4425-a95d-f0c4422655ce" />
+<img width="937" height="472" alt="image" src="https://github.com/user-attachments/assets/949c6433-1178-4bf9-b997-58eaf03f3918" />
+
+<img width="939" height="295" alt="image" src="https://github.com/user-attachments/assets/4a7d33b1-cdbe-4b88-8273-8012113d39b5" />
+
+<img width="875" height="394" alt="image" src="https://github.com/user-attachments/assets/32782304-f322-49ed-b41f-231b2a3137c3" />
+
+
+
 
