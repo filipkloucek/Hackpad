@@ -11,10 +11,10 @@
 
 Used parts: 
 
-- 4x Cherry MX Switches
+- 5x Cherry MX Switches
 - 1x SK6812 MINI Led
 - 1x XIAO RP2040
-- 4x Blank DSA Keycaps
+- 5x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 - 1x EC11 Rotary encoder
@@ -23,7 +23,7 @@ Used parts:
 Files: 
 
 - KMK Firmware (main.py) 
-- HACKPAD - VF (HACKPAD - BOTTOM,HACKPAD - TOP,HACKPAD - PCB)
+- HACKPAD V3 (HACKPAD - BOTTOM - V3,HACKPAD - TOP - V3,HACKPAD - PCB - V3)
 
   
   
